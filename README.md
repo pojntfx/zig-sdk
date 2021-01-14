@@ -1,6 +1,6 @@
 # zig-sdk
 
-A containerized version of the [Zig Toolchain](https://ziglang.org/).
+A containerized version of the [Zig toolchain](https://ziglang.org/).
 
 ![Docker CI](https://github.com/alphahorizonio/zig-sdk/workflows/Docker%20CI/badge.svg)
 
